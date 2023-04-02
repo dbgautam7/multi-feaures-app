@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dbgautam7.github.io/multi-feaures-app/static/css/main.0bccf201.css",
+    "main.js": "/dbgautam7.github.io/multi-feaures-app/static/js/main.3c9bc727.js",
+    "static/js/787.cda612ba.chunk.js": "/dbgautam7.github.io/multi-feaures-app/static/js/787.cda612ba.chunk.js",
+    "index.html": "/dbgautam7.github.io/multi-feaures-app/index.html",
+    "main.0bccf201.css.map": "/dbgautam7.github.io/multi-feaures-app/static/css/main.0bccf201.css.map",
+    "main.3c9bc727.js.map": "/dbgautam7.github.io/multi-feaures-app/static/js/main.3c9bc727.js.map",
+    "787.cda612ba.chunk.js.map": "/dbgautam7.github.io/multi-feaures-app/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bccf201.css",
+    "static/js/main.3c9bc727.js"
+  ]
+}
